@@ -67,4 +67,3 @@ Proyecto creado por **Octavio Agüero**.
 
 ---
 
-Si quieres mejorar esta página, puedo ayudarte a añadir CSS, JavaScript o ampliar el diseño para que luzca como un portfolio profesional.
